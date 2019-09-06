@@ -1,9 +1,14 @@
+//Rajat Walia
+//Assignment 1
+//CPSC350
+//Prof. Rene German
+
 using namespace std; 
 #include<iostream>  
 
 int main() 
 { 
-    // prints hello world 
+    // prints hello world
     cout<<"Hello World"; 
       
     return 0; 
